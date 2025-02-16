@@ -1,0 +1,40 @@
+
+body {
+  background-color: #03581a;
+  color: rgb(226, 223, 238);
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+/* Dropdown */
+select {
+  padding: 8px;
+  font-size: 16px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+
+/* Heading */
+h1 {
+  color: #f89411;
+}
+
+/* List */
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background-color: #8f0303;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.loading {
+  font-size: 18px;
+  font-weight: bold;
+  color: rgb(248, 253, 250);
+}
